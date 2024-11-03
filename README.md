@@ -1,5 +1,5 @@
 ```bash
-croot && https://github.com/Ryxeensenpai/vendor_afterlife-priv_keys-gen.git vendor/after-priv/keys
+croot && git clone https://github.com/Ryxeensenpai/vendor_afterlife-priv_keys-gen.git vendor/after-priv/keys
 ```
 
 ```bash
