@@ -1,9 +1,9 @@
 ```bash
-croot && git clone https://github.com/OrionOS-prjkt/vendor_orion-priv_keys-gen vendor/orion-priv/keys
+croot && https://github.com/Ryxeensenpai/vendor_afterlife-priv_keys-gen.git vendor/after-priv/keys
 ```
 
 ```bash
-cd vendor/orion-priv/keys
+cd vendor/after-priv/keys
 ```
 
 ```bash
